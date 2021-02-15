@@ -1,7 +1,7 @@
 demo-manual-d2m
 ===
 
-This repo requires changes to be merged into `main` via `develop`.
+This repo requires changes to be merged first merged into `develop`. Then raise a PR from `develop`  to `develop`.
 
 The process is:
 
