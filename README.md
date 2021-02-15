@@ -1,7 +1,7 @@
 demo-manual-d2m
 ===
 
-This repo requires changes to be merged to main via develop.
+This repo requires changes to be merged into `main` via `develop`.
 
 The process is:
 
